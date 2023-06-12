@@ -2,7 +2,7 @@ type: payload
 localizedName: Signet
 description: Constructs buildings to protect the Sin core. Capable of carrying 3x3 buildings.
 health: 100
-outlineColor: 656657
+outlineColor: 70725D
 speed: 3
 rotateSpeed: 8.5
 drag: 0.05
