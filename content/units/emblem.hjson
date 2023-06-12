@@ -1,12 +1,15 @@
 type: payload
 localizedName: Emblem
 description: Constructs buildings to protect the Agony core. Capable of carrying 3x3 buildings.
-health: 100
-outlineColor: 656657
-speed: 1.5
+health: 175
+hitSize: 11
+outlineColor: 70725D
+speed: 4
 drag: 0.05
 accel: 0.05
 flying: true
+mineSpeed: 7
+mineTier: 1
 itemCapacity: 60
 targetable: false
 hittable: false
